@@ -1,0 +1,3 @@
+[submodule "simple-storage-fe"]
+	path = simple-storage-fe
+	url = https://github.com/nisargsc/simple-storage-fe.git
