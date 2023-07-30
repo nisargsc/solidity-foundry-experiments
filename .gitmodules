@@ -1,3 +1,6 @@
 [submodule "simple-storage-fe"]
 	path = simple-storage-fe
 	url = https://github.com/nisargsc/simple-storage-fe.git
+[submodule "fund-me-fe"]
+	path = fund-me-fe
+	url = https://github.com/nisargsc/fund-me-fe.git
